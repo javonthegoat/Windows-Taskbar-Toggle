@@ -73,13 +73,3 @@ A simple Python script to manually toggle the Windows taskbar "Automatically hid
 *   **Administrator Privileges:** As mentioned, running as Administrator often solves issues with the hotkey not being detected or the taskbar state not changing.
 *   **Windows Only:** This script will not work on macOS or Linux.
 *   **Hotkey Conflicts:** Ensure the hotkey you choose doesn't conflict with other applications or system shortcuts.
-
-## License
-
-(Optional - You can choose a license if you want)
-
-*   You can add a license file (e.g., `LICENSE`) and state the license here. The [MIT License](https://opensource.org/licenses/MIT) is a common and permissive choice for small projects like this. Example text:
-    ```markdown
-    This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-    ```
-*   If you don't add a license, standard copyright laws apply by default.
