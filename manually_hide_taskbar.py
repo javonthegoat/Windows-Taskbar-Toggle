@@ -1,4 +1,4 @@
-# Filename: manually_hide_taskbar_autohide.py
+# Filename: manually_hide_taskbar.py
 
 import ctypes
 import sys
