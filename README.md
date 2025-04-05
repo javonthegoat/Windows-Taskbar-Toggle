@@ -8,6 +8,7 @@ A simple Python script to manually toggle the Windows taskbar "Automatically hid
 *   Uses a configurable global hotkey.
 *   Helps maximize screen real estate for applications or a cleaner desktop view.
 *   Runs discreetly in the background via the terminal.
+*   Can be useful for recording the whole screen without the taskbar.
 
 ## Requirements
 
